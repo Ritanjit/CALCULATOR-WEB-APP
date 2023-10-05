@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+html {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+  }  
+
+.button{
+    width: 70px;
+    padding: 20px;
+    margin: 0 4px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(rgb(46, 46, 46), rgb(64, 64, 64));
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    width: 310px;
+    height: 50px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(168, 176, 125);
+}
+
+.text-center{
+    text-align: center;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.container {
+    position: relative;
+    width: 350px;
+    min-height: 400px;
+    padding: 40px 30px 30px;
+    background: linear-gradient(to bottom, rgba(24, 12, 12, 0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(0, 0, 0, 0.4) 0%, rgba(0,0,0,0.40) 120%) #989898;
+    border-radius: 20px;
+    box-shadow: 25px 25px 75px rgba(0, 0, 0, 0.25),
+      10px 10px 70px rgba(0, 0, 0, 0.25), inset -5px -5px 15px rgba(0, 0, 0, 0.25),
+      inset 5px 5px 15px rgba(0, 0, 0, 0.25);
+}
+
+#AC{
+    padding: 20px;
+    margin: 0 4px;
+    cursor: pointer;
+    width: 150px;
+    background: rgb(204, 51, 51);
+}
+
+#equal-to{
+    padding: 20px;
+    margin: 0 4px;
+    cursor: pointer;
+    width: 150px;
+    background: rgb(67, 145, 208);
+}
+
+body{
+background: #000000;
+background: -webkit-linear-gradient(to right, #434343, #000000);
+background: linear-gradient(to right,#000000, #434343, #000000);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+
+#span{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
